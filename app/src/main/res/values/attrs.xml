@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="AndroidView">
+        <attr name="squareColor" format="color" />
+        <attr name="squareLabel" format="string" />
+        <attr name="LabelColor" format="color" />
+    </declare-styleable>
+</resources>
